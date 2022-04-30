@@ -1,4 +1,4 @@
-# typescript-for-php-developers
+# php-vs-typescript
 
 [![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
